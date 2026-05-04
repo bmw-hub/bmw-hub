@@ -6,7 +6,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a passionate developer and creative thinker with a love for **HTML, CSS, and JavaScript**. I enjoy turning ideas into interactive, real-world web experiences — whether that's a side project, a collaboration, or just a late-night experiment.
+I'm a passionate developer and creative thinker with a love for **HTML, CSS, and JavaScript**. I enjoy turning ideas into interactive, real-world web experiences whether that's a side project, a collaboration, or just a late-night experiment.
 
 - 🔭 Currently sharpening my frontend skills and exploring the full web dev stack
 - 🤝 Open to collaborating on **creative writing projects** and **innovative tech ideas**
